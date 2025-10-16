@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Face Recognition Attendance System Using Python**
 
-- 🌱 I’m currently learning **Web Devlopment, DSA, JAVA**
+- 🌱 I’m currently learning **Web Devlopment, DSA, JAVA, REACT**
 
 - 👯 I’m looking to collaborate on **MAANG Companies**
 

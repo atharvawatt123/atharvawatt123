@@ -4,7 +4,7 @@
 <img alt="Coding" align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvawatt123&label=Profile%20views&color=0e75b6&style=flat" alt="atharvawatt123" /> </p>
 
-- 🔭 I’m currently working on **Face Recognition Attendance System Using Python**
+- 🔭 I’m currently working on **PhysioBuddy!!**
 
 - 🌱 I’m currently learning **Web Devlopment, DSA, JAVA, REACT**
 

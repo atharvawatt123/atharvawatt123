@@ -58,16 +58,4 @@
 
 <br/>
 
-<h3 align="center">GitHub & Professional Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvawatt123&show_icons=true&locale=en&layout=compact" alt="atharvawatt123" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvawatt123&show_icons=true&locale=en" alt="atharvawatt123" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvawatt123&" alt="atharvawatt123" />
-</p>
